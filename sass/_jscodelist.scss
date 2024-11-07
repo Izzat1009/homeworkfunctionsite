@@ -1,0 +1,20 @@
+.js__codelist{
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 1440px;
+    background-color: rgba(128, 128, 128, 0.403);
+    overflow: hidden;
+}
+.code__title{
+   max-width: 640px;
+   height: 220px;
+   border-left: 5px solid rgb(17, 213, 17);
+
+   
+   code{
+   background-color: #fff;
+    max-width: 600px;
+    height: 120px;
+   }
+}
+

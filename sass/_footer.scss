@@ -1,0 +1,25 @@
+.footer{
+    overflow: hidden;
+    margin: 0 auto;
+    padding: 0 16px;
+    max-width: 1440px;
+    
+}
+.navbar2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 120px;
+    background-color: #d3d3d3;
+}
+.navbar__collection2{
+    list-style: none;
+    gap: 0 35px;
+
+    a{
+        text-decoration: none;
+        color: #000;
+        font-size: 18px;
+        font-style: italic;
+    }
+}
